@@ -1,4 +1,4 @@
-
+/*align all the text*/
 header, main, footer {
   text-align: center;
 }
@@ -6,7 +6,7 @@ header, main, footer {
 header {
   background: #697173;
 }
-
+/*add a background image to the entire main section*/
 main {
   background-image: url("images/background.jpg");
 }
@@ -19,20 +19,18 @@ h1 {
 
 section {
   padding: 50px;
-  justify-content: center;
 }
 
 footer {
   margin: 10px;
-  justify-content: center;
   background: #697173;
 }
-
+/*make the image smaller*/
 .my-picture {
   height: 40%;
   width: 40%;
 }
-
+/*Change the color of a link when the mouse is over it*/
 a:hover {
   color: #FF00FF
 }
