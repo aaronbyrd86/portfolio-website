@@ -1,0 +1,38 @@
+
+header, main, footer {
+  text-align: center;
+}
+
+header {
+  background: #697173;
+}
+
+main {
+  background-image: url("images/background.jpg");
+}
+
+h1 {
+  font-family: Candara;
+  font-size: 60px;
+  color: antiquewhite;
+}
+
+section {
+  padding: 50px;
+  justify-content: center;
+}
+
+footer {
+  margin: 10px;
+  justify-content: center;
+  background: #697173;
+}
+
+.my-picture {
+  height: 40%;
+  width: 40%;
+}
+
+a:hover {
+  color: #FF00FF
+}
